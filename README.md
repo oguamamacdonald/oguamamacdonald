@@ -57,21 +57,30 @@
 
 <h2> 🐧 Linux Server:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Secure Server Hardening with Firewalld</b>
+  - [Installed and enabled firewalld, disabling the legacy iptables service.](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Configured active firewall zones (e.g., public, internal) and set default policies.](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Opened specific ports for essential services (SSH) and added pre-defined services (e.g., http, https) to the firewall rules.](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Implemented rich rules to allow access from specific source IP subnets for administrative purposes.](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Managed runtime and permanent rules, ensuring configurations persisted across reboots.](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Remote Administration via OpenSSH Server</b>
+  - [Installed and configured the openssh-server package.](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Started and enabled the sshd service to ensure it launches at boot](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Verified the service was listening on the correct port using systemctl status](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Successfully established remote SSH connections from client machines, confirming secure access.](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+- <b>System Management & Automation Scripts</b>
+  - [Wrote shell scripts incorporating variables, user input (read), and arithmetic operations](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Created scripts to perform calculations with precision using tools like bc.](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Developed scripts for file management and text processing using commands like grep with regular expressions to filter and analyze log files or data.](https://github.com/joshmadakor1/AD_PS)
+- <b>Package Management & Software Deployment</b>
+  - [Utilized yum to update the system, list repositories, and install software packages (e.g., GNOME desktop, OpenSSH).](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Managed system subscriptions for RHEL-based systems to access official software channels.](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Used rpm for lower-level package installation and verification.](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>Filesystem and User Management</b>
+  - [Created, archived (gzip), and extracted file archives using tar.](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Managed file and directory permissions using chmod for user, group, and owner access levels.](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Created and managed user accounts and groups.](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Implemented hard and soft links for efficient filesystem navigation and file management.](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
     
 
 <h2> ☁️ Cloud Computing:</h2>
