@@ -25,21 +25,34 @@
 
 <h2> 🪟 Microsoft Server:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Enterprise Active Directory Domain Services Deployment</b>
+  - [Promoted a Windows Server to a Domain Controller, establishing a new forest and root domain.](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Configured forest and domain functional levels for backward compatibility.](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Created and managed user accounts, security groups, and organizational units to structure the IT environment.](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Implemented granular account policies, including logon hour restrictions and account expiration for security compliance.](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Joined client computers to the domain, centralizing authentication and management.](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Centralized Policy and Software Management via Group Policy</b>
+  - [Created and linked Group Policy Objects (GPOs) at the domain level.](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Deployed third-party software applications (.MSI packages) to domain users and computers, eliminating the need for manual installation.](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Enforced corporate security policies and desktop configurations, including mandated wallpapers and system settings.](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Utilized security filtering to apply specific GPOs to targeted user groups and enforced policies to ensure inheritance.](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+- <b>Automated Network Management with DHCP & File Services</b>
+  - [Installed and configured the DHCP Server role, creating a scope to automatically assign IP addresses to client machines.](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Integrated DHCP with DNS and set a default gateway for seamless client network integration.](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Implemented and managed a file server using File Server Resource Manager (FSRM).](https://github.com/joshmadakor1/AD_PS)
+  - [Created network shares with customized permissions and applied storage quotas to limit folder sizes and prevent disk space abuse.](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Configured file screens to block specific file types (e.g., executables, video files) from being stored on network drives.](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- <b>System Deployment & Update Infrastructure</b>
+  - [Deployed Windows Deployment Services (WDS) to enable network-based installation of Windows operating systems.](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Added boot and install images to WDS and configured multicast transmissions for simultaneous deployment to multiple clients.](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Installed and configured Windows Server Update Services (WSUS) to manage and distribute Microsoft product updates.](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Synchronized update approvals and configured client computers to receive updates from the internal WSUS server.](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>Data Security, Redundancy, and Backup Strategy</b>
+  - [Implemented BitLocker Drive Encryption on data volumes to protect against data theft from lost or stolen hardware.](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Created and managed various disk volumes, including Mirrored Volumes (RAID-1) for data redundancy.](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Configured scheduled and one-time backup jobs using Windows Server Backup to secure critical server data to external and network locations.](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+
 
 
 <h2> 🐧 Linux Server:</h2>
