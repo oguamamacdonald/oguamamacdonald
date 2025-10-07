@@ -106,6 +106,29 @@
   - [Provisioned a multi-region lab environment with three virtual networks.](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Established local VNet peering between networks in the same region and global VNet peering between networks in different regions.](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Thoroughly tested intersite connectivity using PowerShell's Test-NetConnection, validating the successful implementation of the network topology.](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - -
+- <b>EC2 Instance & Elastic Block Store (EBS) Lifecycle Management</b>
+  - [Launched Amazon EC2 instances, selecting appropriate instance types and creating new key pairs for secure SSH access.](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Understood the financial impact of resource management by terminating instances to stop billing.](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Created EBS volumes within the same Availability Zone as target EC2 instances and attached them to provide additional storage.](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Initialized and formatted attached EBS volumes using Disk Management (for Windows) to make them available for use by the operating system.](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Cloud Monitoring & Dashboard Creation with CloudWatch</b>
+  - [Created CloudWatch Alarms to monitor billing metrics and specific resource health, enabling proactive issue detection.](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Built custom CloudWatch Dashboards, adding widgets to visualize metrics and usage statistics across resources.](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Enabled and configured Live Data on dashboards for real-time monitoring of system metrics.](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Shared dashboards publicly by generating the necessary URL and confirming the permissions policy.](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Centralized Operations with AWS Systems Manager</b>
+  - [Configured Explorer to aggregate operational data across AWS accounts and regions.](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Set up a Resource Data Sync to funnel data from various sources into a central location for Explorer.](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Leveraged Systems Manager capabilities for automated management and configuration of EC2 instances.](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Backup & Recovery Strategy with AWS Backup</b>
+  - [Created a Backup Plan to define automated backup schedules and retention policies.](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Assigned AWS resources (e.g., EBS volumes) to the backup plan for consistent protection.](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Performed on-demand backups for specific recovery points outside of the scheduled plan.](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Successfully tested the recovery process by restoring a backup to a new resource, validating the integrity of the backup strategy.](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Relational Database Deployment with Amazon RDS</b>
+  - [Provisioned an Amazon RDS instance using the Easy Create option for rapid deployment.](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Selected Microsoft SQL Server as the database engine, utilizing the Free Tier for cost-effective learning and development.](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>🛡️ Cybersecurity</h2>
 
