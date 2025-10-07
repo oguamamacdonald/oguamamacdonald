@@ -162,11 +162,11 @@
 
 <h2>📜 Certifications</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [CISCO Certified Network Associate](https://www.credly.com/badges/99afe69f-61ad-4fef-894f-bdda55646853)
+- [CompTIA Security+ ce Certification](https://www.credly.com/badges/5de19307-dbf0-4780-88e7-9363b6417bf3)
+- [Microsoft Certified: Azure Administrator Associate](https://www.credly.com/badges/f151ddda-e678-46de-9a9a-48e4ef7b35a6)
+- [IT Specialist - Networking](https://www.credly.com/badges/b0ba004c-f6c9-41a2-b4a7-d0667f44788f)
+- [Google Cybersecurity](https://coursera.org/share/ae9ed34d46313825c2d8182831910cf6)
   
 
 <h2> 🤳 Connect with me:</h2>
