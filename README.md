@@ -3,14 +3,14 @@
 <h2> 🖧 Computer Networking:</h2>
 
 - <b>Enterprise Network Routing & Redundancy Implementation</b>
-  - [Configured EIGRP as the dynamic routing protocol to automatically learn and advertise networks across all routers.](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Implemented HSRP on two routers to provide a virtual default gateway for end-users, ensuring high availability.](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Configured inter-VLAN routing using a router-on-a-stick to enable communication between different departmental VLANs.](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Verified connectivity and path redundancy using continuous pings and show ip route commands.](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Configured EIGRP as the dynamic routing protocol to automatically learn and advertise networks across all routers.](https://github.com/oguamamacdonald)
+  - [Implemented HSRP on two routers to provide a virtual default gateway for end-users, ensuring high availability.](https://github.com/oguamamacdonald)
+  - [Configured inter-VLAN routing using a router-on-a-stick to enable communication between different departmental VLANs.](https://github.com/oguamamacdonald)
+  - [Verified connectivity and path redundancy using continuous pings and show ip route commands.](https://github.com/oguamamacdonald)
 - <b>Secure Campus Network with VLANs and Access Control</b>
-  - [Configured a VTP server to centrally manage VLANs (VLAN 10 - "Donald", VLAN 20 - "Mercy") across multiple switches.](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-  - [Implemented 802.1Q trunking on inter-switch links to carry multiple VLAN traffic.](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-  - [Assigned access ports to specific VLANs and hardened them using Port Security, restricting access by MAC address.](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Configured a VTP server to centrally manage VLANs (VLAN 10 - "Donald", VLAN 20 - "Mercy") across multiple switches.](https://github.com/oguamamacdonald)
+  - [Implemented 802.1Q trunking on inter-switch links to carry multiple VLAN traffic.](https://github.com/oguamamacdonald)
+  - [Assigned access ports to specific VLANs and hardened them using Port Security, restricting access by MAC address.](https://github.com/oguamamacdonald)
   - [Created and applied Extended ACLs to filter traffic based on source/destination IP and protocol, preventing unauthorized access between subnets.](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b>WAN Connectivity & DHCP Services Deployment</b>
   - [Configured a Frame Relay WAN cloud to connect a central HQ router to two remote branch routers using point-to-point subinterfaces and DLCI mappings.](https://github.com/joshmadakor1/Sentinel-Lab)
