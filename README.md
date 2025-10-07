@@ -106,7 +106,7 @@
   - [Provisioned a multi-region lab environment with three virtual networks.](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Established local VNet peering between networks in the same region and global VNet peering between networks in different regions.](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Thoroughly tested intersite connectivity using PowerShell's Test-NetConnection, validating the successful implementation of the network topology.](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - -
+    
 - <b>EC2 Instance & Elastic Block Store (EBS) Lifecycle Management</b>
   - [Launched Amazon EC2 instances, selecting appropriate instance types and creating new key pairs for secure SSH access.](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Understood the financial impact of resource management by terminating instances to stop billing.](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
