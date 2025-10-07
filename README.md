@@ -85,22 +85,27 @@
 
 <h2> ☁️ Cloud Computing:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - 
+- <b>Identity & Access Management with Azure AD and RBAC</b>
+  - [Created and configured Azure AD users and groups, implementing dynamic membership rules based on user attributes (e.g., Department, Job Title)](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Activated and assigned Azure AD Premium P2 licenses to enable advanced group features.](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Created a custom RBAC role named "Support Request Contributor" with specific permissions to create support tickets and view resource groups.](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Assigned the custom role at the management group scope, demonstrating granular access control beyond the subscription level.](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Governance & Compliance via Azure Policy</b>
+  - [Assigned the built-in "Require a tag and its value on resources" policy to a resource group, effectively blocking the creation of any resources that did not have the required Role: Infra tag.](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Implemented a remediation strategy by assigning the "Inherit a tag from the resource group if missing" policy. This automatically applied the correct tag to existing non-compliant resources and new deployments, ensuring consistency.](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+- <b>Automated Resource Deployment & Management</b>
+  - [Deployed Azure managed disks using ARM templates via the Azure Portal, understanding and modifying template parameters.](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Utilized Azure PowerShell within Cloud Shell to create resource groups and managed disks, and performed configuration changes (e.g., resizing disks, changing SKUs from Standard HDD to Premium SSD).](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Executed equivalent tasks using Azure CLI in a Bash environment, demonstrating flexibility across different administrative tools.](https://github.com/joshmadakor1/AD_PS)
+- <b>Secure Virtual Networking & DNS Configuration</b>
+  - [Designed and implemented a virtual network (10.40.0.0/20) with multiple subnets for workload segmentation.](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Deployed VMs into different subnets and configured static private and public IP addresses (Standard SKU).](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Created and associated a Network Security Group (NSG) with rules to securely allow RDP traffic to VMs.](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Configured Azure Private DNS zones (contoso.org) for internal name resolution and Azure Public DNS zones for external name resolution, mapping records to VM public IPs.](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>Hybrid Network Architecture with VNet Peering</b>
+  - [Provisioned a multi-region lab environment with three virtual networks.](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Established local VNet peering between networks in the same region and global VNet peering between networks in different regions.](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Thoroughly tested intersite connectivity using PowerShell's Test-NetConnection, validating the successful implementation of the network topology.](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>🛡️ Cybersecurity</h2>
 
