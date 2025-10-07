@@ -132,11 +132,33 @@
 
 <h2>🛡️ Cybersecurity</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- <b>Network Vulnerability & Traffic Analysis</b>
+  - [Performed comprehensive network reconnaissance using Nmap for host discovery and service enumeration.](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Conducted stealthy port scanning via proxy servers using Scanless to assess external footprint.](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Captured and deeply analyzed network packets using Wireshark and Tcpdump to identify malicious traffic patterns, unusual protocols, and potential data exfiltration attempts.](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Monitored active network connections and routing tables using Netstat and Route for baseline establishment and anomaly detection.](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Web Application Penetration Testing</b>
+  - [Intercepted, inspected, and modified HTTP/S traffic using Burp Suite to test application logic and session management.](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Manually identified and exploited SQL Injection and Cross-Site Scripting (XSS) vulnerabilities to demonstrate potential data breach risks.](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Tested for Cross-Site Request Forgery (CSRF) and Directory Traversal vulnerabilities to ensure proper access controls.](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Utilized Gobuster for brute-forcing hidden directories and APIs, and Wpscan for conducting security assessments of WordPress installations.](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Active Directory & System Exploitation</b>
+  - [Conducted credential harvesting attacks using Site Cloning and Responder to capture NTLM hashes on the network.](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Performed brute-force attacks using Hydra to test password policy strength.](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Utilized the Metasploit Framework to exploit vulnerabilities, gain initial access, and pivot through networks.](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Generated custom payloads with Msfvenom to bypass antivirus solutions.](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Demonstrated post-exploitation techniques, including extracting password hashes from memory using Mimikatz.](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Proactive Threat Intelligence Gathering</b>
+  - [Used theHarvester and Recon-ng to gather exposed employee emails, subdomains, and host information associated with target domains.](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Performed comprehensive DNS enumeration with Dnsenum, Nslookup, and Dig to map out target infrastructure and identify potentially misconfigured records.](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Vulnerability Management & Compliance</b>
+  - [Leveraged Nessus to perform automated vulnerability scans, generating detailed reports on system misconfigurations and unpatched software.](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Applied knowledge of the OWASP Top 10 to prioritize critical web application risks for remediation.](https://github.com/joshmadakor1/Algorithms-Practice)
+    
+- <b>Password Security & Integrity Auditing</b>
+  - [Utilized Hashcat and John the Ripper to perform password cracking and audit password policy effectiveness.](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Verified file integrity and detected unauthorized modifications by generating and comparing checksums.](https://github.com/joshmadakor1/Algorithms-Practice)
+
 
 <h2>📜 Certifications</h2>
 
